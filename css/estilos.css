@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 5px;
+    background-color: cornflowerblue;
+}
+h1{
+color: darkblue;
+}
+h2{
+    color: chocolate;
+    background-color: cadetblue;
+}
+strong{
+    color: blueviolet;
+}
+i{
+    color: aquamarine;
+}
+p{
+    text-align: justify;
+    text-indent: 30px;
+}
+
